@@ -1,4 +1,4 @@
-welcome = "Welcome to the Band Name Generator app"
+welcome = "Welcome to the Band Name Generator App"
 print(welcome)
 
 
