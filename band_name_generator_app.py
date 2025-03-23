@@ -1,3 +1,6 @@
+# Create Band Generator App
+# ---------------------------------------
+
 welcome = "Welcome to the Band Name Generator App"
 print(welcome)
 
